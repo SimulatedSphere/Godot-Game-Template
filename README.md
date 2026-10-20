@@ -125,3 +125,4 @@ Join the [Discord server](https://discord.gg/AyZrJh5AMp) and share your work wit
 [Godot Asset Store - Addon](https://store.godotengine.org/asset/maaack/maaacks-game-template-addon/)  
 [Godot Asset Library - Template](https://godotengine.org/asset-library/asset/2703)  
 [Godot Asset Library - Plugin](https://godotengine.org/asset-library/asset/2709)  
+Practice note from the fork lesson.
